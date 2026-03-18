@@ -356,7 +356,7 @@ const Footer = () => {
             <ul className="space-y-4 text-sm text-baobab-muted">
               <li className="flex items-start gap-3">
                 <MapPin size={18} className="shrink-0 text-rose-primary" />
-                <span>Vallée de l'Outaouais, Québec</span>
+                <span>Vallée de l'Outaouais, Ontario</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={18} className="shrink-0 text-rose-primary" />
@@ -579,7 +579,7 @@ const ContactPage = () => {
                 </div>
                 <div>
                   <p className="text-xs uppercase tracking-widest font-bold text-baobab-muted">{t.contact.details.workshop}</p>
-                  <p className="font-bold">Vallée de l'Outaouais, QC</p>
+                  <p className="font-bold">Vallée de l'Outaouais, ON</p>
                 </div>
               </div>
             </div>
