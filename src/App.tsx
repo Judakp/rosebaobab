@@ -221,7 +221,7 @@ const PRODUCTS = [
   },
   {
     id: 3,
-    name: { EN: "'The Maned Horse", FR: "Le Cheval à Crinière'" },
+    name: { EN: "The Maned Horse", FR: "Le Cheval à Crinière'" },
     category: { EN: "Patriotic Edition", FR: "Édition Patriotique" },
     price: "42$",
     description: { EN: "Celebrate our roots with this engraved 'Go Canada' truck.", FR: "Célébrez nos racines avec ce camion gravé 'Go Canada'." },
