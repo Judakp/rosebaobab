@@ -321,8 +321,7 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center gap-2 mb-6">
               <div className="w-12 h-12 rounded-full bg-rose-primary flex items-center justify-center overflow-hidden">
-                <img 
-                  src="/rosebaobab.jpg" 
+                <image : "/rosebaobab.jpg" 
                   alt="Rose & Baobab Logo" 
                   className="w-full h-full object-cover" 
                 />
