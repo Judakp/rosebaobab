@@ -271,8 +271,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
         <Link to="/" className="flex items-center gap-2">
           <div className="w-12 h-12 rounded-full bg-rose-primary flex items-center justify-center shadow-sm overflow-hidden">
-            <img 
-              src="/rosebaobab.jpg" 
+            <image : "/rosebaobab.jpg" 
               alt="Rose & Baobab Logo" 
               className="w-full h-full object-cover" 
             />
